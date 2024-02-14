@@ -1,0 +1,1 @@
+My-todo created by using HTML, CSS, and JavaScript, is a sleek and user-friendly todo application crafted to simplify your daily tasks. With an intuitive interface, effortlessly add, check off, and prioritize your to-dos. Stay organized and boost productivity with this responsive and efficient tool. Make every day more manageable with my-todo.
